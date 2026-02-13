@@ -1,0 +1,1 @@
+console.log("Pontos após exponenciação: " + divpontos);
